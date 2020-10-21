@@ -1,0 +1,1 @@
+Django Store 1.0
